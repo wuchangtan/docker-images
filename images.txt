@@ -21,3 +21,5 @@
 #nodered/node-red:4.0.2-22
 mysql:8.4.2
 nginx:1.27.1
+sonatype/nexus3
+minio/minio
