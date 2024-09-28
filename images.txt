@@ -3,7 +3,6 @@
 #temporalio/ui:2.26.2
 #golang:1.22.5-bullseye
 #ubuntu:24.04
-#nginx:1.27-alpine3.19
 #jenkins/jenkins:2.452.2-lts-alpine
 #beevelop/cordova:nightly
 #ubuntu:22.04
@@ -19,5 +18,6 @@
 #gogs/gogs:0.12.11
 #emqx/emqx:5.7.1
 #traefik:v3.1.1
-nodered/node-red:4.0.2-22
+#nodered/node-red:4.0.2-22
 mysql:8.4.2
+nginx:1.27.1
