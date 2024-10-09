@@ -24,3 +24,4 @@ nginx:1.27.1
 sonatype/nexus3
 minio/minio
 jrottenberg/ffmpeg
+jrottenberg/ffmpeg:3-alpine
